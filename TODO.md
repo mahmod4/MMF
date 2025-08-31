@@ -1,0 +1,4 @@
+- [x] Update index.html: Change register form to use email instead of phone, add Firebase SDK script
+- [x] Update style.css: Enhance responsiveness for phones (add media query for 480px)
+- [x] Update script.js: Replace localStorage auth with Firebase Auth for login and register
+- [x] Test the changes and provide Firebase config instructions
